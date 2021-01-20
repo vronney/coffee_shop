@@ -2,12 +2,15 @@ const express = require('express')
 const router = express.Router()
 
 router.get('/', (req, res, next) => {
-    const data = {
-        title: 'Manchitas By Elsa',
-        description: 'Welcome to our house of comida! We hope you enjoy our broad selection of comidas from Mexico.'
-    }
+    const data = req.context
 
     res.render('home', data)
+})
+
+router.get('/blog', (req, res, next) => {
+    const data = req.context
+    
+    res.render('blog', data)
 })
 
 module.exports = router
