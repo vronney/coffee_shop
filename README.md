@@ -1,7 +1,7 @@
 # coffee-shop
 
 ## Working Site
-coffee_shop[https://coffee-shop-oio1zh.turbo360-vertex.com/]
+[coffee_shop](https://coffee-shop-oio1zh.turbo360-vertex.com/)
 
 This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
 
