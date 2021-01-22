@@ -1,0 +1,17 @@
+{
+    "hero": {
+        "header": "Eat Healthy <br> and Natural Foods",
+        "subtext": "Welcome to our cocina, we only use authentic ingredients from Mexico.",
+        "bg_image": "/images/nacho_beer.jpg"
+    },
+    "about": {
+        "header": "Welcome to Manchitas By Elsa",
+        "subtext": "Manchitas By Elsa, or as commonly referred to by our fans as Manchitas, was opened as a fast-casual Mexican restaurant in San Antonio, TX in 2021 by the Ron and Elsa Vargas. Manchitas translates to “stains”. The name was chosen because it fit perfectly with the vibrant and exciting menu ideas that will leave stains on you, beacuse the food is so good.",
+        "bg_image": "/images/tables.jpg",
+        "images": [
+            {"image": "/images/omelete_mexicana.jpg", "caption": "Omelette A La Mexican"},
+            {"image": "/images/carnita_plate.jpg", "caption": "Ultimate Carnita Plate"},
+            {"image": "/images/street_tacos.jpg", "caption": "Street Tacos"}
+        ]
+    }
+}
