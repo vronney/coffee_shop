@@ -1,4 +1,9 @@
 {
     "title": "Manchitas By Elsa",
-    "description": "Welcome to our house of comida! We hope you enjoy our broad selection of comidas from Mexico."
+    "description": "Welcome to our house of comida! We hope you enjoy our broad selection of comidas from Mexico.",
+    "hours": [
+        {"day": "Mon - Fri", "time": "9am - 3pm"},
+        {"day": "Saturday", "time": "9am -5pm"},
+        {"day": "Sunday", "time": "Closed"}
+    ]
 }

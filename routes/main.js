@@ -13,4 +13,10 @@ router.get('/blog', (req, res, next) => {
     res.render('blog', data)
 })
 
+router.get('/menu', (req, res, next) => {
+    const data = req.context
+
+    res.render('menu', data)
+})
+
 module.exports = router
